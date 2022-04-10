@@ -1,7 +1,7 @@
 
 # folder tmp
 tmp/
-
+.idea/
 *_old
 *_backup
 
